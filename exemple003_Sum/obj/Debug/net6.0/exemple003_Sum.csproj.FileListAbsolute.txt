@@ -1,0 +1,15 @@
+/Users/tanya/Documents/examples/exemple003_Sum/bin/Debug/net6.0/exemple003_Sum
+/Users/tanya/Documents/examples/exemple003_Sum/bin/Debug/net6.0/exemple003_Sum.deps.json
+/Users/tanya/Documents/examples/exemple003_Sum/bin/Debug/net6.0/exemple003_Sum.runtimeconfig.json
+/Users/tanya/Documents/examples/exemple003_Sum/bin/Debug/net6.0/exemple003_Sum.dll
+/Users/tanya/Documents/examples/exemple003_Sum/bin/Debug/net6.0/exemple003_Sum.pdb
+/Users/tanya/Documents/examples/exemple003_Sum/obj/Debug/net6.0/exemple003_Sum.csproj.AssemblyReference.cache
+/Users/tanya/Documents/examples/exemple003_Sum/obj/Debug/net6.0/exemple003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanya/Documents/examples/exemple003_Sum/obj/Debug/net6.0/exemple003_Sum.AssemblyInfoInputs.cache
+/Users/tanya/Documents/examples/exemple003_Sum/obj/Debug/net6.0/exemple003_Sum.AssemblyInfo.cs
+/Users/tanya/Documents/examples/exemple003_Sum/obj/Debug/net6.0/exemple003_Sum.csproj.CoreCompileInputs.cache
+/Users/tanya/Documents/examples/exemple003_Sum/obj/Debug/net6.0/exemple003_Sum.dll
+/Users/tanya/Documents/examples/exemple003_Sum/obj/Debug/net6.0/refint/exemple003_Sum.dll
+/Users/tanya/Documents/examples/exemple003_Sum/obj/Debug/net6.0/exemple003_Sum.pdb
+/Users/tanya/Documents/examples/exemple003_Sum/obj/Debug/net6.0/exemple003_Sum.genruntimeconfig.cache
+/Users/tanya/Documents/examples/exemple003_Sum/obj/Debug/net6.0/ref/exemple003_Sum.dll
