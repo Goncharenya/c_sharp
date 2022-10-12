@@ -1,0 +1,15 @@
+/Users/tanya/Documents/examples/exemple005_EfElse/bin/Debug/net6.0/exemple005_EfElse
+/Users/tanya/Documents/examples/exemple005_EfElse/bin/Debug/net6.0/exemple005_EfElse.deps.json
+/Users/tanya/Documents/examples/exemple005_EfElse/bin/Debug/net6.0/exemple005_EfElse.runtimeconfig.json
+/Users/tanya/Documents/examples/exemple005_EfElse/bin/Debug/net6.0/exemple005_EfElse.dll
+/Users/tanya/Documents/examples/exemple005_EfElse/bin/Debug/net6.0/exemple005_EfElse.pdb
+/Users/tanya/Documents/examples/exemple005_EfElse/obj/Debug/net6.0/exemple005_EfElse.csproj.AssemblyReference.cache
+/Users/tanya/Documents/examples/exemple005_EfElse/obj/Debug/net6.0/exemple005_EfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanya/Documents/examples/exemple005_EfElse/obj/Debug/net6.0/exemple005_EfElse.AssemblyInfoInputs.cache
+/Users/tanya/Documents/examples/exemple005_EfElse/obj/Debug/net6.0/exemple005_EfElse.AssemblyInfo.cs
+/Users/tanya/Documents/examples/exemple005_EfElse/obj/Debug/net6.0/exemple005_EfElse.csproj.CoreCompileInputs.cache
+/Users/tanya/Documents/examples/exemple005_EfElse/obj/Debug/net6.0/exemple005_EfElse.dll
+/Users/tanya/Documents/examples/exemple005_EfElse/obj/Debug/net6.0/refint/exemple005_EfElse.dll
+/Users/tanya/Documents/examples/exemple005_EfElse/obj/Debug/net6.0/exemple005_EfElse.pdb
+/Users/tanya/Documents/examples/exemple005_EfElse/obj/Debug/net6.0/exemple005_EfElse.genruntimeconfig.cache
+/Users/tanya/Documents/examples/exemple005_EfElse/obj/Debug/net6.0/ref/exemple005_EfElse.dll
