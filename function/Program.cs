@@ -16,12 +16,14 @@ int c2 = 2;
 
 int a3 = 1;
 int b3 = c1+a2;
-int c3 = 777;
+int c3 = 7779;
 
 // int max1 = ResultMax(a1, b1, c1);
 // int max2 = ResultMax(a2, b2, c2);
 // int max3 = ResultMax(a3, b3, c3);
-int max = ResultMax(ResultMax(a1, b1, c1), ResultMax(a2, b2, c2), ResultMax(a3, b3, c3));
+int max = ResultMax(ResultMax(a1, b1, c1), 
+        ResultMax(a2, b2, c2), 
+        ResultMax(a3, b3, c3));
 
 
 Console.WriteLine(max);
