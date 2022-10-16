@@ -1,0 +1,15 @@
+/Users/tanya/Documents/examples/function/bin/Debug/net6.0/function
+/Users/tanya/Documents/examples/function/bin/Debug/net6.0/function.deps.json
+/Users/tanya/Documents/examples/function/bin/Debug/net6.0/function.runtimeconfig.json
+/Users/tanya/Documents/examples/function/bin/Debug/net6.0/function.dll
+/Users/tanya/Documents/examples/function/bin/Debug/net6.0/function.pdb
+/Users/tanya/Documents/examples/function/obj/Debug/net6.0/function.csproj.AssemblyReference.cache
+/Users/tanya/Documents/examples/function/obj/Debug/net6.0/function.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanya/Documents/examples/function/obj/Debug/net6.0/function.AssemblyInfoInputs.cache
+/Users/tanya/Documents/examples/function/obj/Debug/net6.0/function.AssemblyInfo.cs
+/Users/tanya/Documents/examples/function/obj/Debug/net6.0/function.csproj.CoreCompileInputs.cache
+/Users/tanya/Documents/examples/function/obj/Debug/net6.0/function.dll
+/Users/tanya/Documents/examples/function/obj/Debug/net6.0/refint/function.dll
+/Users/tanya/Documents/examples/function/obj/Debug/net6.0/function.pdb
+/Users/tanya/Documents/examples/function/obj/Debug/net6.0/function.genruntimeconfig.cache
+/Users/tanya/Documents/examples/function/obj/Debug/net6.0/ref/function.dll

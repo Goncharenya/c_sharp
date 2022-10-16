@@ -1,0 +1,15 @@
+/Users/tanya/Documents/examples/example007_while/bin/Debug/net6.0/example007_while
+/Users/tanya/Documents/examples/example007_while/bin/Debug/net6.0/example007_while.deps.json
+/Users/tanya/Documents/examples/example007_while/bin/Debug/net6.0/example007_while.runtimeconfig.json
+/Users/tanya/Documents/examples/example007_while/bin/Debug/net6.0/example007_while.dll
+/Users/tanya/Documents/examples/example007_while/bin/Debug/net6.0/example007_while.pdb
+/Users/tanya/Documents/examples/example007_while/obj/Debug/net6.0/example007_while.csproj.AssemblyReference.cache
+/Users/tanya/Documents/examples/example007_while/obj/Debug/net6.0/example007_while.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanya/Documents/examples/example007_while/obj/Debug/net6.0/example007_while.AssemblyInfoInputs.cache
+/Users/tanya/Documents/examples/example007_while/obj/Debug/net6.0/example007_while.AssemblyInfo.cs
+/Users/tanya/Documents/examples/example007_while/obj/Debug/net6.0/example007_while.csproj.CoreCompileInputs.cache
+/Users/tanya/Documents/examples/example007_while/obj/Debug/net6.0/example007_while.dll
+/Users/tanya/Documents/examples/example007_while/obj/Debug/net6.0/refint/example007_while.dll
+/Users/tanya/Documents/examples/example007_while/obj/Debug/net6.0/example007_while.pdb
+/Users/tanya/Documents/examples/example007_while/obj/Debug/net6.0/example007_while.genruntimeconfig.cache
+/Users/tanya/Documents/examples/example007_while/obj/Debug/net6.0/ref/example007_while.dll
